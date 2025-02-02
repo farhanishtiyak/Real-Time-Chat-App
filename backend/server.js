@@ -31,3 +31,4 @@ app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
 
+// Backend is done. Now let's move to the frontend.
